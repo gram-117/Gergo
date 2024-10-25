@@ -5,6 +5,7 @@ Gram's ergonomic keyboard is based on Klor and Kaly42 keyboards. Uses a 40-key l
 
 # Materials needed:
 this keyboard requires some level of experience with soldering and requires the following materials in addition to the PCB:
+
 2x Elite-C MCU (atmega32u4)
 
 40x Cherry mx compatible key switches
