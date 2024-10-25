@@ -26,7 +26,7 @@ Optional:
 
 2x EC11 Rotary Encoder (not required however they have been very fun to play with and I would recommend them)
 
-Rubber/ Silocne bump-ons (allow the PCB to be used bare without any sliding around without a case)
+Rubber/ Silicone bump-ons (allow the PCB to be used bare without any sliding around without a case)
 
 2x key-switch plate (the one pictured is laser cut acrylic so you can still see PCB graphics, 3D printing would work as well but I feel it would take away from the aesthetics
 
