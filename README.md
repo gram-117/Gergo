@@ -1,5 +1,5 @@
 # Gergo 
-Gram's ergonomic keyboard is based on Klor and Kaly42 keyboards. Uses a 40-key layout, with splay from Klor and the thumb cluster found in Kaly with some small modifications. The graphic found on both the front and back depicts a morning glory flower, a flower that grew in the backyard of my childhood home :)
+Gram's ergonomic keyboard is based on Klor and Kaly42 keyboards. Uses a 40-key layout, with splay from Klor and the thumb cluster found in Kaly with some small modifications. Firmware is QMK. The graphic found on both the front and back depicts a morning glory flower, a flower that grew in the backyard of my childhood home :)
 
 ![IMG_2381 (1)](https://github.com/user-attachments/assets/bae146b6-9161-4e91-84f1-cff75f1e9980)
 
